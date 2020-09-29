@@ -1,9 +1,9 @@
 
 @@ -1,40 +1 @@
-// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
+//  https://github.com/AJLoveChina/birthday
 var config = {
-    // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
-    // 每句话尽量不要超过15个字,不然展示效果可能不太好
+    // 
+    // 
     texts: [
         "送给",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "今天最美的小可爱",  // 同上...
